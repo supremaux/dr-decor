@@ -1,0 +1,12 @@
+{
+  "name": "dr-decor",
+  "version": "1.0.0",
+  "description": "Prototipo para a DR Decor",
+  "license": "MIT",
+  "author": "Daniel Carvalho | supremaux.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
