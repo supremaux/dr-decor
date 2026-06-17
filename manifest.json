@@ -6,8 +6,8 @@
   "description": "App para gerenciamento de Kits de Decoração para Festas e Eventos",
   "lang": " pt-BR",
   "dir": "auto",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "orientation": "any",
   "icons": [
     {
